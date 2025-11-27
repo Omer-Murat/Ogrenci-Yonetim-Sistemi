@@ -9,8 +9,8 @@ C++ ile geliştirilmiş, dosya tabanlı (File I/O) çalışan, özel renklendiri
 
 ## 📸 Ekran Görüntüleri
 
-![Ana Ekran](Anasyfa.png)
-
+![Anasayfa_Görüntüsü](anasayfa.png)
+![menü](menü.png)
 ## ✨ Özellikler
 
 Bu proje standart bir konsol uygulamasından fazlasını sunar:
@@ -55,7 +55,7 @@ Projeyi bilgisayarınızda çalıştırmak için adımları izleyin:
 ## 👨‍💻 Geliştirici
 
 **Murat**
-* GitHub: [@KULLANICI_ADIN](https://github.com/KULLANICI_ADIN)
+* GitHub: [@Omer-Murat](https://github.com/Omer-Murat)
 
 ---
 *Bu proje eğitim amaçlı geliştirilmiştir ve açık kaynak kodludur.*
