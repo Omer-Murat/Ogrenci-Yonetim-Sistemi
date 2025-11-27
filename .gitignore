@@ -1,0 +1,11 @@
+# Visual Studio Gereksiz Dosyalari
+.vs/
+x64/
+Debug/
+Release/
+*.exe
+*.obj
+*.pdb
+*.user
+*.ipch
+*.aps
