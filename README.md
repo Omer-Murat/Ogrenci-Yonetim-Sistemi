@@ -9,7 +9,7 @@ C++ ile geliştirilmiş, dosya tabanlı (File I/O) çalışan, özel renklendiri
 
 ## 📸 Ekran Görüntüleri
 
-![Ana Ekran](https://via.placeholder.com/800x400?text=Proje+Ekran+Goruntusu+Buraya)
+![Ana Ekran](Anasyfa.png)
 
 ## ✨ Özellikler
 
