@@ -3,7 +3,6 @@
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B)
 ![IDE](https://img.shields.io/badge/IDE-Visual%20Studio-purple?style=for-the-badge&logo=visual-studio)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey?style=for-the-badge&logo=windows)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 C++ ile geliştirilmiş, dosya tabanlı (File I/O) çalışan, özel renklendirilmiş terminal arayüzüne ve **gelişmiş ASCII Art logo tasarımına** sahip bir öğrenci otomasyon projesi.
 
