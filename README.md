@@ -52,10 +52,12 @@ Projeyi bilgisayarınızda çalıştırmak için adımları izleyin:
 * **Dosya İşlemleri:** `fstream` (Okuma/Yazma)
 * **Kütüphaneler:** `<iostream>`, `<vector>`, `<string>`, `<windows.h>`, `<iomanip>`
 
-## 👨‍💻 Geliştirici
+Repoyu Klonla:
+```bash
+https://github.com/Omer-Murat/Ogrenci-Yonetim-Sistemi.git
+```
 
-**Murat**
-* GitHub: [@Omer-Murat](https://github.com/Omer-Murat)
+Geliştirici Ömer Murat
 
 ---
 *Bu proje eğitim amaçlı geliştirilmiştir ve açık kaynak kodludur.*
