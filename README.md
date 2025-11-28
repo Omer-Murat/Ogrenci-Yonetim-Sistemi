@@ -8,8 +8,8 @@ C++ ile geliştirilmiş, dosya tabanlı (File I/O) çalışan, özel renklendiri
 
 ## 📸 Ekran Görüntüleri
 
-![Anasayfa_Görüntüsü](anasayfa.png)
-![menü](menü.png)
+![Anasayfa_Görüntüsü](anasayfaa.png)
+![menü](menüü.png)
 ## ✨ Özellikler
 
 Bu proje standart bir konsol uygulamasından fazlasını sunar:
