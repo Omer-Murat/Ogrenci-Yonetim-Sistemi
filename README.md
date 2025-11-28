@@ -36,7 +36,7 @@ Projeyi bilgisayarınızda çalıştırmak için adımları izleyin:
 
 1.  **Projeyi Klonlayın:**
     ```bash
-    git clone [https://github.com/KULLANICI_ADIN/Ogrenci-Yonetim-Sistemi.git](https://github.com/KULLANICI_ADIN/Ogrenci-Yonetim-Sistemi.git)
+    git clone https://github.com/Omer-Murat/Ogrenci-Yonetim-Sistemi.git
     ```
 2.  **Visual Studio ile Açın:**
     `Öğrenci Kayıt Sistemi.slnx` (veya `.sln`) dosyasına çift tıklayın.
@@ -51,11 +51,6 @@ Projeyi bilgisayarınızda çalıştırmak için adımları izleyin:
 * **Veri Yapıları:** `struct`, `vector`
 * **Dosya İşlemleri:** `fstream` (Okuma/Yazma)
 * **Kütüphaneler:** `<iostream>`, `<vector>`, `<string>`, `<windows.h>`, `<iomanip>`
-
-Repoyu Klonla:
-```bash
-https://github.com/Omer-Murat/Ogrenci-Yonetim-Sistemi.git
-```
 
 Geliştirici Ömer Murat
 
